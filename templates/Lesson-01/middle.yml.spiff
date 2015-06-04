@@ -1,0 +1,7 @@
+---
+# file middle.yml.spiff
+file-can-be-overriden: middle.yml.spiff
+std-1: nil
+std-2: nil
+test-array: ['middle-1','middle-2', 'middle-3']
+
