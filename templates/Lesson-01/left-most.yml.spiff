@@ -3,5 +3,8 @@
 file-can-be-overriden: left-most.yml.spiff
 std-1: nil
 std-2: nil
-test-array: ['left-most-1','left-most-2', 'left-most-3']
-
+test-array:
+- left-most-1
+- left-most-2
+- left-most-3
+- <<: (( merge || nil ))
