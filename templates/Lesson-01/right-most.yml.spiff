@@ -1,7 +1,7 @@
 ---
 # file right-most.yml.spiff
 file-can-be-overriden: right-most.yml.spiff
-std-1: nil
+std-1: added from the right-most template
 std-2: nil
 test-array: ['right-most-1','right-most-2', 'right-most-3']
 
